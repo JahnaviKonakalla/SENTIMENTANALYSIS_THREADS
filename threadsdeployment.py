@@ -9,6 +9,7 @@ Original file is located at
 
 import streamlit as st
 import pickle
+import scikit-learn as sklearn
 from sklearn.feature_extraction.text import TfidfVectorizer
 from PIL import Image
 import re
