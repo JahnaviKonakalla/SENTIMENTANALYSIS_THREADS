@@ -1,7 +1,6 @@
 
 nltk==3.8.1
 pillow== 9.4.0
-plotly==5.16.1
 scikit-learn==1.2.2
 spacy==3.6.1
 streamlit==1.26.0
